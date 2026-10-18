@@ -1,0 +1,6 @@
+x = int(input("What's the value of x? "))
+y = int(input("What's the value of y? "))
+
+z = x + y
+
+print(f"{z:,}")
